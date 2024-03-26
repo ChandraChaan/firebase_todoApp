@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819052726140",
+    "project_id": "todo-app-15c79",
+    "storage_bucket": "todo-app-15c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819052726140:android:ca61e264b753889bb246f9",
+        "android_client_info": {
+          "package_name": "com.chandra.firebase_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_MaZSDuOzCvy9eqepEfmK6ujmq6Dwsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
